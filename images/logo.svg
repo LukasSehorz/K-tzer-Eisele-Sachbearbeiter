@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Krotzer & Eisele">
+  <rect width="64" height="64" rx="14" fill="#22483D"/>
+  <path d="M14 33.5 32 18l18 15.5" stroke="#6FAE3E" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M18 31v16h12V37h6.5" stroke="#DCEBD2" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="40" cy="38" r="8" stroke="#6FAE3E" stroke-width="3.2"/>
+  <line x1="45.8" y1="43.8" x2="51" y2="49" stroke="#6FAE3E" stroke-width="3.4" stroke-linecap="round"/>
+  <circle cx="40" cy="38" r="3" fill="#6FAE3E"/>
+</svg>
