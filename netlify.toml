@@ -1,0 +1,3 @@
+# Statische HTML-Seite — kein Build-Schritt nötig
+[build]
+  publish = "."
