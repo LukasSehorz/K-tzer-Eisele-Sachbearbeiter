@@ -1,0 +1,4 @@
+# Statische HTML-Seite — überschreibt die alten UI-Einstellungen (npm run build / dist)
+[build]
+  command = "echo 'Statische Seite - kein Build noetig'"
+  publish = "."
